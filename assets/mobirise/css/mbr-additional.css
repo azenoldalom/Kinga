@@ -41,11 +41,11 @@ body {
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.4rem;
+  font-size: 2rem;
   font-display: swap;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 2.24rem;
+  font-size: 3.2rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -547,11 +547,11 @@ a:hover {
 }
 .form-control {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.4rem;
+  font-size: 2rem;
   font-display: swap;
 }
 .form-control > .mbr-iconfont {
-  font-size: 2.24rem;
+  font-size: 3.2rem;
 }
 blockquote {
   border-color: #149dcc;
