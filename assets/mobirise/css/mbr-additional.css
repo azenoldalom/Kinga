@@ -41,11 +41,11 @@ body {
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-display: swap;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 3.2rem;
+  font-size: 2.4rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -547,11 +547,11 @@ a:hover {
 }
 .form-control {
   font-family: 'Rubik', sans-serif;
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-display: swap;
 }
 .form-control > .mbr-iconfont {
-  font-size: 3.2rem;
+  font-size: 2.4rem;
 }
 blockquote {
   border-color: #149dcc;
@@ -1446,11 +1446,15 @@ section.lazy-placeholder:after {
 }
 .cid-rZa4IUv5lt H2 {
   text-align: center;
-  color: #ffffff;
+  color: #000000;
 }
 .cid-rZa4IUv5lt .icon-block,
 .cid-rZa4IUv5lt .icon-block .icon-block__title {
   text-align: center;
+  color: #55b4d4;
+}
+.cid-rZa4IUv5lt H5 {
+  color: #767676;
 }
 .cid-rZa4RiaZbj {
   padding-top: 60px;
