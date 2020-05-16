@@ -1179,6 +1179,46 @@ section.lazy-placeholder:after {
   text-align: center;
   color: #767676;
 }
+.cid-rZaW3uvF8t {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rZaW3uvF8t .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rZaW3uvF8t .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rZaW3uvF8t .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-rZaW3uvF8t .team-item .item-image img {
+  width: 100%;
+}
+.cid-rZaW3uvF8t .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-rZaW3uvF8t .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rZaW3uvF8t .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rZaW3uvF8t .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-rZaW3uvF8t .team-item .item-caption {
+  background: #efefef;
+}
 .cid-rZa4s0s30V {
   background-image: url("../../../assets/images/massage-2768833-1920-1920x1357.jpg");
 }
@@ -1400,43 +1440,15 @@ section.lazy-placeholder:after {
 .cid-rZa4RiaZbj .social-list a:focus {
   text-decoration: none;
 }
-.cid-rZaW3uvF8t {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+.cid-rZb14JEfL6 {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #cccccc;
 }
-.cid-rZaW3uvF8t .mbr-section-subtitle {
+.cid-rZb14JEfL6 .mbr-text,
+.cid-rZb14JEfL6 blockquote {
   color: #767676;
 }
-.cid-rZaW3uvF8t .media-row {
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-rZaW3uvF8t .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
-}
-.cid-rZaW3uvF8t .team-item .item-image img {
-  width: 100%;
-}
-.cid-rZaW3uvF8t .team-item .item-name p {
-  margin-bottom: 0;
-}
-.cid-rZaW3uvF8t .team-item .item-role p {
-  margin-bottom: 0;
-}
-.cid-rZaW3uvF8t .team-item .item-social {
-  display: -webkit-flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  -webkit-justify-content: center;
-}
-.cid-rZaW3uvF8t .team-item .item-social .socicon {
-  color: #232323;
-  font-size: 17px;
-}
-.cid-rZaW3uvF8t .team-item .item-caption {
-  background: #efefef;
+.cid-rZb14JEfL6 .mbr-text P {
+  text-align: center;
 }
