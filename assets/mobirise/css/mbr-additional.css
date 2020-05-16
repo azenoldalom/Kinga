@@ -1372,8 +1372,20 @@ section.lazy-placeholder:after {
 .cid-rZa4BzRUwv hr {
   margin: 2rem 0;
 }
+.cid-rZbY0472aD {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rZbY0472aD .mbr-text,
+.cid-rZbY0472aD blockquote {
+  color: #767676;
+}
+.cid-rZbY0472aD .mbr-text P {
+  text-align: center;
+}
 .cid-rZa4IUv5lt {
-  padding-top: 90px;
+  padding-top: 15px;
   padding-bottom: 15px;
   background-color: #ffffff;
 }
@@ -1456,32 +1468,6 @@ section.lazy-placeholder:after {
 .cid-rZa4IUv5lt H5 {
   color: #767676;
 }
-.cid-rZbWi0SqYK .google-map {
-  height: 25rem;
-  position: relative;
-}
-.cid-rZbWi0SqYK .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-rZbWi0SqYK .google-map [data-state-details] {
-  color: #6b6763;
-  font-family: Montserrat;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-rZbWi0SqYK .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-rZbWi0SqYK .google-map[data-state="loading"] [data-state-details] {
-  display: none;
-}
 .cid-rZa4RiaZbj {
   padding-top: 60px;
   padding-bottom: 30px;
@@ -1494,37 +1480,6 @@ section.lazy-placeholder:after {
 .cid-rZa4RiaZbj .social-list a:focus {
   text-decoration: none;
 }
-.cid-rZbWkAGLfe {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rZbWkAGLfe .google-map {
-  height: 25rem;
-  position: relative;
-}
-.cid-rZbWkAGLfe .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-rZbWkAGLfe .google-map [data-state-details] {
-  color: #6b6763;
-  font-family: Montserrat;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-rZbWkAGLfe .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-rZbWkAGLfe .google-map[data-state="loading"] [data-state-details] {
-  display: none;
-}
 .cid-rZb14JEfL6 {
   padding-top: 15px;
   padding-bottom: 0px;
@@ -1536,32 +1491,6 @@ section.lazy-placeholder:after {
 }
 .cid-rZb14JEfL6 .mbr-text P {
   text-align: center;
-}
-.cid-rZbWg2dDt5 .google-map {
-  height: 25rem;
-  position: relative;
-}
-.cid-rZbWg2dDt5 .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-rZbWg2dDt5 .google-map [data-state-details] {
-  color: #6b6763;
-  font-family: Montserrat;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-rZbWg2dDt5 .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-rZbWg2dDt5 .google-map[data-state="loading"] [data-state-details] {
-  display: none;
 }
 .cid-rZay18aNFf {
   background-image: url("../../../assets/images/wellness-285587-1920-1920x1280.jpg");
